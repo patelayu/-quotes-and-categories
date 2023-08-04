@@ -1,16 +1,6 @@
-# untitled5
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/patelayu/-quotes-and-categories/assets/121868302/b5f2c71e-9efb-48de-bb69-e327ef005a78)
+![image](https://github.com/patelayu/-quotes-and-categories/assets/121868302/af0ebe81-daf4-41ad-86f0-59e750d6a3d6)
+![image](https://github.com/patelayu/-quotes-and-categories/assets/121868302/2f535264-cfef-418e-b736-9e1afb03e7db)
+![image](https://github.com/patelayu/-quotes-and-categories/assets/121868302/1f9ba4c3-4ffa-4246-bfdc-3c7aa001652b)
+![image](https://github.com/patelayu/-quotes-and-categories/assets/121868302/84d12034-840a-4642-8681-76d4df9c84cd)
+![image](https://github.com/patelayu/-quotes-and-categories/assets/121868302/ac0f48cd-df7c-444c-a202-87395bcdfc77)
